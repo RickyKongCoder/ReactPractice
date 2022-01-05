@@ -1,0 +1,8 @@
+.recommendedvideos { 
+flex: 0.8;
+background-color:#f9f9f9;
+}
+.recommendationvideos_videos{
+    display: flex;
+    flex-wrap:wrap;
+}
